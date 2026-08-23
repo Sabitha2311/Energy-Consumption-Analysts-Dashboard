@@ -207,11 +207,13 @@ Energy Consumption Insights
 
 ### Water Consumption
 
-<img width="1130" height="632" alt="image" src="https://github.com/user-attachments/assets/020f7638-9ce7-40d6-89a9-57fad6d7462a" />
+<img width="1128" height="635" alt="Screenshot 2026-08-23 103524" src="https://github.com/user-attachments/assets/e47cd2a8-8185-47fd-8af7-d5b836be66de" />
+
 
 
 ### Gas Consumption
-<img width="1127" height="635" alt="image" src="https://github.com/user-attachments/assets/18a53b53-2d25-47bd-aaf5-d23fd1e9ef63" />
+<img width="1130" height="632" alt="Screenshot 2026-08-23 104113" src="https://github.com/user-attachments/assets/7a6a253c-ef42-41bf-bcea-e1c61580468a" />
+
 
 
 
