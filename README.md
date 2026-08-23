@@ -217,7 +217,8 @@ Energy Consumption Insights
 
 ### Electricity Consumption
 
-![Uploading image.png…]()
+<img width="1128" height="635" alt="Screenshot 2026-08-23 104146" src="https://github.com/user-attachments/assets/279ea166-4b5c-48f2-9a33-cb30e7494017" />
+
 
 
 ## Project Objective
