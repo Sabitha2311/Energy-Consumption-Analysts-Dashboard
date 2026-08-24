@@ -242,3 +242,4 @@ The main objective of this project is to develop an **interactive Energy Consump
 The **Energy Consumption Analytics Dashboard** provides a centralized and interactive solution for analyzing Water, Gas, and Electricity consumption.
 
 By combining **Power Query, Data Modeling, DAX, and Power BI visualizations**, the project enables users to understand consumption patterns, compare resource usage, and make data-driven decisions effectively.
+  Dashboard link: https://drive.google.com/file/d/16lf9tPfAaDQDzbjrhr9x1eX6JvzAsdNM/view?usp=sharing
